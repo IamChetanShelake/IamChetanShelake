@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Decoding Me](https://decodingme.in/)
+- 🔭 I’m currently working on 1)Gokhale Education Society  2) [Decoding Me](https://decodingme.in/)
 
 - 🌱 I’m currently learning **AI and Machine Learning**
 
