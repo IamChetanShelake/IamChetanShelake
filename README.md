@@ -12,11 +12,11 @@ Available for <strong>freelance projects</strong> including Web Apps, Mobile App
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on 1)Gokhale Education Society  2) [Decoding Me](https://decodingme.in/)
+- 🔭 I’m currently working on 1)QwikHOM(https://admin.qwikhom.ae/login)  2) Office Employee Management & Attendance System (http://tmshrmanagement.techmetworks.com/)
 
-- 🌱 I’m currently learning **AI and Machine Learning**
+- 🌱 I’m currently learning **AI and Machine Learning , Wordpress plugin Development**
 
-- 💬 Ask me about **DSA , Laravel , JAVA , SQL**
+- 💬 Ask me about **DSA , Laravel , JAVA , SQL , Ajax , API**
 
 - 📫 How to reach me **chetanshelake147@gmail.com**
 
