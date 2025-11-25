@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Chetan Shelake</h1>
-<h3 align="center">My interests lie in solving Data Structures and Algorithms (DSA) problems, Web Development. I'm proficient in coding using Java and I have worked with frontend frameworks like Laravel . I also have hands-on experience working with SQL for backend development.</h3>
+<h3 align="center">
+Passionate about building real-world products & solving complex backend logic. I specialize in 
+<strong>Laravel (PHP)</strong> and <strong>Flutter</strong>, and love turning offline business processes into complete digital systems — from Attendance & HR solutions to custom web apps. Experienced with <strong>REST APIs</strong>, <strong>SQL-based architectures</strong>, and scalable full-stack development.<br><br>
+Available for <strong>freelance projects</strong> including Web Apps, Mobile Apps, and Automation Tools.
+</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamchetanshelake&label=Profile%20views&color=0e75b6&style=flat" alt="iamchetanshelake" /> </p>
 
